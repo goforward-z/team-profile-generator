@@ -3,5 +3,27 @@
     "email-validator": "^2.0.4",
     "inquirer": "^9.0.0",
     "jest": "^28.1.1"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goforward-z/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goforward-z/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/goforward-z/team-profile-generator#readme"
 }
